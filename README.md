@@ -1,6 +1,6 @@
 # RSNA 2020 Refresher Course
 ## Interactive AI for Non-Coders: Image Classification Basics for Beginners
-For the demo, [click here](https://colab.research.google.com/github/wfwiggins/RSNA-Image-AI-2020/blob/master/RSNA20_Image_Classification.ipynb) to open the `RSNA20_Image_Classification` notebook in Google Colab.
+For the demo, [click here](https://colab.research.google.com/github/wfwiggins/RSNA-Image-AI-2020/blob/master/RSNA20_Image_Classification.ipynb) to open the `RSNA20_Image_Classification.ipynb` notebook in Google Colab.
 
 ## Contributing
 If you would like to contribute to the development of the demo notebook, please start by creating a fork of this repository.
